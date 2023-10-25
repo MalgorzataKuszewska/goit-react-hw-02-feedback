@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './FeedbackOptions.module.css';
+import styles from 'components/FeedbackOptions/FeedbackOptions.module.css';
 
 const FeedbackOptions = ({ options, onLeaveFeedback }) => (
   <div>
